@@ -1,2 +1,7 @@
-import { AdminRouter } from '@/components/admin';
-export default function Page(){return <AdminRouter/>;}
+'use client';
+
+import { AdminRouter } from '@/components/admin-router';
+
+export default function Page() {
+  return <AdminRouter />;
+}
