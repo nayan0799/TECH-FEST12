@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main className="auth-wrap"><h1>Lost in thought?</h1><p>This page doesn't exist.</p><Link className="button" href="/">Back to the event</Link></main>;}

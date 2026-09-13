@@ -1,0 +1,1 @@
+export default function Privacy(){return <main style={{maxWidth:900,margin:'0 auto',padding:'80px 24px'}}><a href="/">← Back to MIND RIZZ</a><h1>Privacy</h1><p>MIND RIZZ uses registration information only for event administration, communication, attendance and related event operations. Access is restricted according to account roles and database security policies.</p></main>}

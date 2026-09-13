@@ -1,0 +1,1 @@
+export default function Terms(){return <main style={{maxWidth:900,margin:'0 auto',padding:'80px 24px'}}><a href="/">← Back to MIND RIZZ</a><h1>Terms</h1><p>Participation is subject to the event rules published by the organizers. Teams must provide accurate registration information and follow organizer instructions during check-in and all event levels.</p></main>}
